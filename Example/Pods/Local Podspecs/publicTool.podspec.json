@@ -1,0 +1,22 @@
+{
+  "name": "publicTool",
+  "version": "0.1.0",
+  "summary": "A short description of publicTool.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/msunburst@163.com/publicTool",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "msunburst@163.com": "1334428151@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/msunburst@163.com/publicTool.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "publicTool/Classes/**/*"
+}

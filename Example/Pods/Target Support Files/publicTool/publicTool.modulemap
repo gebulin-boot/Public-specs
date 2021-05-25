@@ -1,0 +1,6 @@
+framework module publicTool {
+  umbrella header "publicTool-umbrella.h"
+
+  export *
+  module * { export * }
+}
